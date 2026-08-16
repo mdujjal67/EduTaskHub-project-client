@@ -1,5 +1,3 @@
-# Assignment_category_0001
-
 ## EduTaskHub Website Overview
 
 Welcome to EduTaskHub! Edutaskhub is an educational platform designed to streamline learning management and student collaboration. Built using React.js for the frontend and powered by Node.js and MongoDB on the backend, Edutaskhub offers intuitive features for course management, assignment tracking, and real-time student engagement. It aims to enhance the educational experience by providing educators and learners with powerful tools to facilitate knowledge sharing and academic success.
